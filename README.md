@@ -37,4 +37,8 @@ As a data specialist at Salifort Motors, I was tasked by the senior leadership t
 - **Executive Summary**: [docs/Executive Summary.pdf](https://github.com/deedee-ke/predicting_employee_churn/blob/main/docs/Executive%20Summary.pdf)
 - **Strategy Document**: [docs/Strategy_Document.pdf](https://github.com/deedee-ke/predicting_employee_churn/blob/main/docs/PACE%20strategy%20document%20(1).pdf)
 
+
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CTNJDHMFBRLW/CERTIFICATE_LANDING_PAGE~CTNJDHMFBRLW.jpeg)
+
+
 I hope this project demonstrates my data analytics skills and my ability to apply them to solve real business problems. Thank you for taking the time to review my work!
