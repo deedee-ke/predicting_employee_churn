@@ -27,7 +27,6 @@ As a data specialist at Salifort Motors, I was tasked by the senior leadership t
 ## Project Structure
 
 - **data/**: Contains the survey data and any other relevant datasets.
-- **notebooks/**: Jupyter notebooks with step-by-step analysis and model building.
 - **models/**: Saved models and results from the analysis.
 - **Salifort_Motors_employee_retention.ipynb**: Main notebook containing the complete analysis.
 - **README.md**: Overview of the project.
