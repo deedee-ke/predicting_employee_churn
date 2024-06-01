@@ -29,7 +29,7 @@ As a data specialist at Salifort Motors, I was tasked by the senior leadership t
 - **data/**: Contains the survey data and any other relevant datasets.
 - **notebooks/**: Jupyter notebooks with step-by-step analysis and model building.
 - **models/**: Saved models and results from the analysis.
-- **Google_Advanced_Data_Analytics_Capstone_Project.ipynb**: Main notebook containing the complete analysis.
+- **Salifort_Motors_employee_retention.ipynb**: Main notebook containing the complete analysis.
 - **README.md**: Overview of the project.
 - **requirements.txt**: List of Python packages needed to run the project.
 
