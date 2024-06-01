@@ -32,5 +32,9 @@ As a data specialist at Salifort Motors, I was tasked by the senior leadership t
 - **README.md**: Overview of the project.
 - **requirements.txt**: List of Python packages needed to run the project.
 
+## Documents
+
+- **Executive Summary**: [docs/Executive_Summary.pdf](docs/Executive_Summary.pdf)
+- **Strategy Document**: [docs/Strategy_Document.pdf](docs/Strategy_Document.pdf)
 
 I hope this project demonstrates my data analytics skills and my ability to apply them to solve real business problems. Thank you for taking the time to review my work!
